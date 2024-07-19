@@ -1,0 +1,14 @@
+{
+  "name": "devtoystailwindextensions",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "write-colors": "node ./scripts/writeTailwindColors.js"
+  },
+  "author": "Kethan Vegunta <kethan@vegunta.com>",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^3.4.6"
+  }
+}
